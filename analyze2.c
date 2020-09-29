@@ -1,3 +1,5 @@
+/* Copyright (C) 2020 David Brunecz. Subject to GPL 2.0 */
+
 #define _GNU_SOURCE
 #include <ctype.h>
 #include <dirent.h>
