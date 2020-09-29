@@ -1,3 +1,4 @@
+#sudo apt-get install -y libx11-dev
 
 CFLAGS+=-Wall -Werror
 CFLAGS+=-ggdb
